@@ -1,0 +1,17 @@
+1. Wwas ist Scrum
+> (da sollte man viel zu erzählen können)
+
+2. Was sind selbstorganisierende Teams [Kontext Scrum]?
+> Wird gut im Scrumidable Podcast erklärt
+
+3. Worum dreht sich bei Scrum alles?
+> Antwort: business value
+
+4. Product Burndown Chart aufmalen
+
+5. Was ist Velocity [Kontext Scrum]?
+> Im Groben gibt die Velocity an, wie viele Tasks von einem Team pro Sprint
+> abgearbeitet werden können.
+
+6. Ein BPMN-Ablauf wurde gezeigt. Die Frage war, ob die Tasks "S", "T", und "U" in einem Prozess ablaufen können (oder sich ggf. gegenseitig ausschließen).
+> Übungsdiagramme gibt es auf http://www.bpmn-selftest.org/
